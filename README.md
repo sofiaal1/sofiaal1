@@ -13,4 +13,6 @@ In my free time, I enjoy **reading** (especially memoirs), **skiing**, and tryin
 - Lifeguard Registration App for the Greater Boston Area
 - Developer for JumboCode FoodLink Project
 
-Feel free to reach out to me @ sofia.alvazzi@tufts.edu!
+#### Feel free to reach out to me:
+- Email: sofia.alvazzi@tufts.edu
+- LinkedIn: www.linkedin.com/in/sofia-alvazzi
